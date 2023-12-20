@@ -1,0 +1,143 @@
+[
+	{
+	"_id": 1,
+	"User": "IMR",
+	"Age": 29,
+	"Sex": "F",
+	"Year": 2023,
+	"Platform": "Spotify",
+	"Musical Genres": 14,
+	"Artists": 177,
+	"Minutes": 15531,
+	"# Songs": 1411,
+	"Top 5 genres": ["Gothic Metal", "Pop", "Spanish Pop Rock", "Rock", "Pop Rock"],
+	"Most listened song":{
+		"Title": "Nach dem Sturm",
+		"Singer/Group": "Lacrimosa",
+		"Album": "Leidenschaft",
+		"Year": 2021,
+		"Times": 19},
+	"Top 5 songs": {
+		"1":{
+			"Title": "Nach dem Sturm",
+			"Singer/Group": "Lacrimosa",
+			"Album": "Leidenschaft",
+			"Year": 2021},
+		"2":{
+			"Title": "Führ mich nochmal in den Sturm",
+			"Singer/Group": "Lacrimosa",
+			"Album": "Leidenschaft",
+			"Year": 2021},
+		"3":{
+			"Title": "Lieben Über Leben",
+			"Singer/Group": "Lacrimosa",
+			"Album": "Leidenschaft",
+			"Year": 2021},
+		"4": {
+			"Title": "The Daughter of Coldness",
+			"Singer/Group": "Lacrimosa",
+			"Album": "Leidenschaft",
+			"Year": 2021},
+		"5": {
+			"Title": "Weltenbrand",
+			"Singer/Group": "Lacrimosa",
+			"Album": "Testimonium",
+			"Year": 2017}},
+	"Top 5 singers/groups": ["Lacrimosa", "LOVG", "Mandragora Scream", "Amaral", "P!nk"],
+	"Top 5 podcast": ["Podcast de Cuidella", "Living with fire", "Divina de la Mente"]
+	},
+
+	{
+		"_id": 2,
+		"User": "CMR",
+		"Age": 25,
+		"Sex": "F",
+		"Year": 2023,
+		"Platform": "Spotify",
+		"Musical Genres": 19,
+		"Artists": 140,
+		"Minutes": 16665,
+		"# Songs": 540,
+		"Top 5 genres": ["Spanish Pop", "Pop", "Rock", "Latin Pop", "Symphony Gothic Metal"],
+		"Most listened song":{
+			"Title": "La ultima",
+			"Singer/Group": "Aitana",
+			"Album": "La ultima",
+			"Year": 2022,
+			"Times": 24},
+		"Top 5 songs": {
+			"1":{
+				"Title": "La ultima",
+				"Singer/Group": "Aitana",
+				"Album": "La ultima",
+				"Year": 2022},
+			"2":{
+				"Title": "Quiero",
+				"Singer/Group": "Aitana",
+				"Album": "La ultima",
+				"Year": 2022},
+			"3":{
+				"Title": "Me levante",
+				"Singer/Group": "Aitana",
+				"Album": "La ultima",
+				"Year": 2022},
+			"4": {
+				"Title": "Tu culpa",
+				"Singer/Group": "Aitana",
+				"Album": "La ultima",
+				"Year": 2022},
+			"5": {
+				"Title": "A la calle",
+				"Singer/Group": "Aitana",
+				"Album": "La ultima",
+				"Year": 2022}},
+		"Top 5 singers/groups": ["Malu", "Aitana", "Amaral", "Within Temptation", "LOVG"]
+		},
+
+		{
+			"_id": 3,
+			"User": "JMMR",
+			"Age": 58,
+			"Sex": "M",
+			"Year": 2023,
+			"Platform": "Spotify",
+			"Musical Genres": 40,
+			"Artists": 189,
+			"Minutes": 22672,
+			"# Songs": 420,
+			"Top 5 genres": ["Spanish Pop", "Rock", "Symphony Metal", "Spanish Metal", "Soft Rock"],
+			"Most listened song":{
+				"Title": "Llego el dia",
+				"Singer/Group": "Triana",
+				"Album": "Llego el dia",
+				"Year": 1983,
+				"Times": 21},
+			"Top 5 songs": {
+				"1":{
+					"Title": "Llego el dia",
+					"Singer/Group": "Triana",
+					"Album": "Llego el dia",
+					"Year": 1983},
+				"2":{
+					"Title": "La casa por el tejado",
+					"Singer/Group": "Fito y Fitipaldis",
+					"Album": "Lo mas lejos a tu lado",
+					"Year": 2003},
+				"3":{
+					"Title": "Smoke on the Water",
+					"Singer/Group": "Deep Purple", 
+					"Album": "Machine Head",
+					"Year": 1972},
+				"4": {
+					"Title": "Unleashed",
+					"Singer/Group": "Epica",
+					"Album": "Design Your Universe",
+					"Year": 2009},
+				"5": {
+					"Title": "La del Pirata Cojo",
+					"Singer/Group": "Joaquin Sabina",
+					"Album": "Fisica Y Quimica",
+					"Year": 1992}},
+			"Top 5 singers/groups": ["Triana", "Within Temptation", "Amaral", "Heroes del Silencio", "Bunbury"]
+			}
+]

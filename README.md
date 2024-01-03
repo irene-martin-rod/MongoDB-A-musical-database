@@ -1,7 +1,7 @@
 # **MONGOBD** 
 
-### Analysing a noSQL database sing **pyMongo**
+### Analysing a noSQL database using **pyMongo**
 
 This database contains data from the music streaming platform *Spotify* and *Apple Music*. Data have data has been voluntarily transferred by users. 
 
-Uning **pyMongo**, demographic data and user behaviour have been analysed
+Using **pyMongo**, demographic data and user behaviour have been analysed
